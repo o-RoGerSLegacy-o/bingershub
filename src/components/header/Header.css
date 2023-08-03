@@ -1,0 +1,20 @@
+.header_icon
+{
+  width: 90px;
+  height: 60px;
+margin:10px; 
+}
+.header_items
+{
+  text-decoration:none;
+  font-weight: bold;
+  font-size: 30px;
+  margin-left: 70px;
+  cursor: pointer;
+  transition:0.5s;
+}
+.header_items:hover
+{
+  color :aqua;
+ 
+}
